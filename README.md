@@ -109,6 +109,10 @@ pip install .
 The repository includes a Minimal Working Example (MWE) in `main.py` to demonstrate the pedestrian simulation workflow:
 You can include the pedestrian simulator in any CommonRoad scenario.
 
+```bash
+   python3 main.py
+   ```
+
 </details>
 
 ---

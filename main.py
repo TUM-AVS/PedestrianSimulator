@@ -51,6 +51,7 @@ if __name__ == '__main__':
     for t in range(sim_steps):
 
         # Advance the simulation by one step, updating pedestrian states.
+        print(f"Simulating time step {t}.")
         pedestrian_simulator.step_pedestrians(t)
 
         # If animation is enabled, render the current state of the scenario.
@@ -59,6 +60,8 @@ if __name__ == '__main__':
             scenario.draw(rnd, draw_params=params)  # Draw the scenario
             rnd.render(show=True)  # Render the plot
             plt.pause(0.1)  # Pause briefly to create animation effect
+
+    print(f"Simulation finished after {sim_steps} time steps.")
 
     # Final visualization of the scenario at the last simulation step.
     params.time_begin = 1  # Set the time step to the first frame -> visualize trajectory
