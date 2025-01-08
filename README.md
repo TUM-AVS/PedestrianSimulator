@@ -9,6 +9,8 @@
 
 This repository includes a Pedestrian Simulation Framework built on the CommonRoad scenario format. It simulates pedestrian behavior using a social force model and integrates policy-based movement planning for dynamic and realistic pedestrian predictions.
 
+For a practical application of this pedestrian simulation model, explore our [Pedestrian Aware Motion Planner](https://github.com/TUM-AVS/PedestrianAwareMotionPlanning).
+
 ## Features
 
 - **Social Force Model**: Simulates pedestrian interactions and behaviors.
@@ -26,7 +28,7 @@ This repository includes a Pedestrian Simulation Framework built on the CommonRo
 
 ### Requirements
 The software is developed and tested on recent versions of Linux. We strongly recommend using [Ubuntu 22.04](https://ubuntu.com/download/desktop) or higher.
-For the python installation, we suggest the usage of Virtual Environment with Python 3.11, Python 3.10 or Python 3.9
+For the Python installation, we suggest the usage of Virtual Environment with Python 3.11, Python 3.10 or Python 3.9
 For the development IDE we suggest [PyCharm](http://www.jetbrains.com/pycharm/)
 
 ### 1. Clone the repository
