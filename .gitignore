@@ -1,0 +1,13 @@
+pedestrian_simulator/policies
+venv
+.idea/
+.idea/**
+.DS_Store
+*.iml
+.pyc
+.ipynb_checkpoints
+
+pedestrian_simulator/__pycache__
+pedestrian_simulator/pysocialforce/__pycache__
+pedestrian_simulator/pysocialforce/utils/__pycache__
+pedestrian_simulator/utils/__pycache__
