@@ -1,7 +1,7 @@
 <!-- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13493227.svg)](https://zenodo.org/records/tbd) -->
 
 [![Linux](https://img.shields.io/badge/os-linux-blue.svg)](https://www.linux.org/)
-[![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/downloads/release/python-3110/) [![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/downloads/release/python-3100/) [![Python 3.9](https://img.shields.io/badge/python-3.9-blue.svg)](https://www.python.org/downloads/release/python-390/)
+[![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/downloads/release/python-3110/) [![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/downloads/release/python-3100/)
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 
 
@@ -213,6 +213,20 @@ If you use this Pedestrian Simulator in your research, please cite the related p
 ```bibtex
 t.b.d
 ```
+
+</details>
+
+---
+
+# 👥 Code Contributors
+
+<details>
+<summary>Click to expand</summary>
+
+[Korbinian Moller](mailto:korbinian.moller@tum.de) \
+[Truls Nyberg](mailto:trulsny@kth.se)  
+
+
 
 </details>
 
