@@ -95,12 +95,6 @@ pip install .
        pedestrian_simulator.step_pedestrians(timestep)
    ```
 
-4. **Visualize the Results**:
-   Render and visualize the simulation:
-   ```python
-   pedestrian_simulator.debug_plot()
-   ```
-
 </details>
 
 ---
